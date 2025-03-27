@@ -1,22 +1,13 @@
-// ver let const
+// var, let, and const usage
 
-ver A = The person is the use to the working
+var A = 'The man of the work';  // Declaring a string using var
+let B = 2000;                  // Declaring a number using let
+const c = true;                 // Declaring a boolean using const
 
+console.log(A);   
+console.log(B);  
+console.log(c);   
 
-let B = 2000
-
-
-const c = true
-
-
-
-console.log(A);
-
-console.log(B);
-
-
-console.log(C);
-
-console.log(A+B+C);
+console.log(A+B+c);  
 
 
